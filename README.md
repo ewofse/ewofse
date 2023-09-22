@@ -1,7 +1,7 @@
 - Hi, I’m @ewofse
-- I’m interested in ... computers, coding, and engineering
+- I’m interested in ... computers, programming, electronics, and engineering
 - I’m currently learning ... computer engineering
-- I’m looking to collaborate on ... fun coding projects
+- I’m looking to collaborate on ... programming projects
 - How to reach me ... ewofse1@binghamton.edu
 
 <!---
