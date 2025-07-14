@@ -1,5 +1,5 @@
 Hi, I'm Ethan!
-I'm a junior computer engineering student at Thomas J. Watson College of Engineering and Applied Science at Binghamton University. 
+I'm a senior computer engineering student at Thomas J. Watson College of Engineering and Applied Science at Binghamton University. 
 I'm interested in embedded systems, firmware, robotics, microcontrollers, microprocessors, FPGA & ASIC design, and processor architecture.
 
 <!---
