@@ -1,6 +1,5 @@
 Hi, I'm Ethan!
-I'm a senior computer engineering student at Thomas J. Watson College of Engineering and Applied Science at Binghamton University. 
-I'm interested in embedded systems, firmware, robotics, microcontrollers, microprocessors, FPGA & ASIC design, and processor architecture.
+Recent recipient of a B.S. in Computer Engineering. Interested in embedded systems, firmware, microcontrollers, microprocessors, and robotics.
 
 <!---
 ewofse/ewofse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
